@@ -46,6 +46,8 @@ def get_analyzer():
     #     print(list(csv_data))
     data = pd.read_csv(file) 
     print(data.head)
+    #generate prompt
+    #get correctaiopn
 
     print(error);
     output = "12345678"
